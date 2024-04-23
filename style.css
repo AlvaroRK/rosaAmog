@@ -169,7 +169,7 @@ body{
 .leaf {
     width: 0;
     height: 0;
-    border-top: 80px solid #4CAF50; /* Color verde */
+    border-top: 80px solid #4CAF50;
     border-right: 40px solid transparent;
     position: absolute;
     top: 78%;
@@ -180,7 +180,7 @@ body{
 .leaf2{
     width: 0;
     height: 0;
-    border-top: 80px solid #4CAF50; /* Color verde */
+    border-top: 80px solid #4CAF50;
     border-right: 40px solid transparent;
     position: absolute;
     top: 70%;
