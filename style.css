@@ -157,14 +157,14 @@ body{
     text-align: center;
     color: #fff;
     font-size: 25px;
-    top: 10%;
+    top: 15%;
 }
 
 
 .flower{
     height: 200px;
     width: 200px;
-    margin: 20px auto;
+    margin:auto;
 
     display: flex;
     align-items: center;
@@ -298,7 +298,7 @@ body{
     z-index: 10;
     width: 20px;
     margin: auto;
-    background-color: #afa54c;
+    background-color: #4CAF50;
 }
 
 .leaf {
@@ -307,7 +307,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 43%;
     transform: rotate(-45deg);
 }
@@ -318,7 +318,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 34%;
+    top: 44%;
     left: 52%;
     transform: rotate(25deg);
 }
