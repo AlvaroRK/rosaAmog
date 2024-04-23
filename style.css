@@ -157,7 +157,7 @@ body{
     text-align: center;
     color: #fff;
     font-size: 25px;
-    top: 20%;
+    top: 10%;
 }
 
 
@@ -295,10 +295,10 @@ body{
     position: absolute;
     bottom: 0;
     height: 50%;
-    z-index: -1;
+    z-index: 10;
     width: 20px;
     margin: auto;
-    background-color: #4CAF50;
+    background-color: #afa54c;
 }
 
 .leaf {
@@ -307,7 +307,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 60%;
+    top: 30%;
     left: 43%;
     transform: rotate(-45deg);
 }
@@ -318,7 +318,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 64%;
+    top: 34%;
     left: 52%;
     transform: rotate(25deg);
 }
