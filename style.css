@@ -307,7 +307,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 60%;
+    top: 61%;
     left: 43%;
     transform: rotate(-45deg);
 }
@@ -318,7 +318,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 64%;
+    top: 65%;
     left: 52%;
     transform: rotate(25deg);
 }
