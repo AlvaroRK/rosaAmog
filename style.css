@@ -59,8 +59,8 @@ body{
 }
 
 .mid{
-    width: 75px;
-    height: 75px;
+    width: 65px;
+    height: 65px;
     border-radius: 50%;
 
     background: radial-gradient(circle, #000, #ff5e00, #000);
