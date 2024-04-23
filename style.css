@@ -17,6 +17,14 @@ body{
     top: 15%;
 }
 
+.text-above2{
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    top: 19%;
+}
+
 
 .flower{
     height: 200px;
@@ -164,8 +172,8 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 77%;
-    left: 43%;
+    top: 78%;
+    left: 42%;
     transform: rotate(-45deg);
 }
 
