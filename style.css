@@ -157,11 +157,9 @@ body{
     text-align: center;
     color: #fff;
     font-size: 25px;
+    top: 20%;
 }
 
-.text-above{
-    top: 250px;
-}
 
 .flower{
     height: 200px;
@@ -296,7 +294,7 @@ body{
 .tallo{
     position: absolute;
     bottom: 0;
-    height: 500px;
+    height: 50%;
     z-index: -1;
     width: 20px;
     margin: auto;
@@ -309,7 +307,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 730px;
+    top: 60%;
     left: 43%;
     transform: rotate(-45deg);
 }
@@ -320,7 +318,7 @@ body{
     border-top: 80px solid #4CAF50; /* Color verde */
     border-right: 40px solid transparent;
     position: absolute;
-    top: 650px;
+    top: 64%;
     left: 52%;
     transform: rotate(25deg);
 }
